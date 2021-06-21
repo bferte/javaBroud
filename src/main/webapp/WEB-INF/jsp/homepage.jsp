@@ -21,6 +21,27 @@
 
         Sorry, your browser doesn't support embedded videos.
     </video>
+    <div>
+        <h2>Nos Réalisations</h2>
+        <p>Chez Broud notre équipe de passionnés vous apporte notre réal expertise en développement web</p>
+        <div class="imageContainer">
+            <div class="projetContainer">
+                <img class="realisationImage" src="${pageContext.request.contextPath}/ressources/images/02.jpg">
+                <h3>Epy Wordpress Theme</h3>
+                <p>Wordpress</p>
+            </div>
+            <div class="projetContainer">
+                <img class="realisationImage" src="${pageContext.request.contextPath}/ressources/images/04.jpg">
+                <h3>Prokit - Biggest Flutter App UI Kit</h3>
+                <p>Android-and-ios</p>
+            </div>
+            <div class="projetContainer">
+                <img class="realisationImage" src="${pageContext.request.contextPath}/ressources/images/05.jpg">
+                <h3>Streamit-Video Streaming Wordpress Theme</h3>
+                <p>Wordpress</p>
+            </div>
+        </div>
+    </div>
 </main>
 
 <jsp:include page="/WEB-INF/fragments/footer.jsp">
