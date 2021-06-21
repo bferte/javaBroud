@@ -7,13 +7,6 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-<<<<<<< HEAD
-<head>
-    <title>Title</title>
-</head>
-<body>
-
-=======
 <jsp:include page="/WEB-INF/fragments/header.jsp">
     <jsp:param name="title" value="Réalisation" />
     <jsp:param name="css" value="realisation" />
@@ -37,6 +30,5 @@
 <jsp:include page="/WEB-INF/fragments/footer.jsp">
     <jsp:param name="title" value="Réalisation" />
 </jsp:include>
->>>>>>> 74ffebf477f0243bcd1183359041834fbf0e92df
 </body>
 </html>
