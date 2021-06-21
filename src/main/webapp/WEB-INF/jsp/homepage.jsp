@@ -9,7 +9,7 @@
 <html>
 <jsp:include page="/WEB-INF/fragments/header.jsp">
     <jsp:param name="title" value="Homepage" />
-    <jsp:param name="title" value="home" />
+    <jsp:param name="css" value="home" />
 </jsp:include>
 <body>
 

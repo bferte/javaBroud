@@ -16,5 +16,13 @@
 
 </head>
 <header>
-    <p>Bonjour c'est mon header</p>
+    <nav>
+        <div class="topNav"></div>
+    </nav>
+    <div class="bottomNav">
+        <div>
+            <p class='bottomNavTitle'>MacBook Pro 13 "</p>
+        </div>
+        <div><LinkButton></LinkButton></div>
+    </div>
 </header>

@@ -9,8 +9,20 @@
 <head>
     <meta charset="UTF-8">
     <title>${param.title}</title>
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/styles/style.css">
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/styles/global.css">
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/styles/header.css">
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/styles/footer.css">
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/styles/${param.css}.css">
+
 </head>
 <header>
-    <p>Bonjour c'est mon header</p>
+    <nav>
+        <div class="topNav"></div>
+    </nav>
+    <div class="bottomNav">
+        <div>
+            <p class='bottomNavTitle'>MacBook Pro 13 "</p>
+        </div>
+        <div><LinkButton></LinkButton></div>
+    </div>
 </header>
