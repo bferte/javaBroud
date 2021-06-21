@@ -1,0 +1,23 @@
+.navContainer {
+    display:flex;
+    flex-direction:row;
+}
+
+.logoContainer {
+    width : 20%;
+}
+.middleContainer {
+    width:50%;
+}
+.linkContainer {
+    width:30%;
+}
+.linkList {
+    height:100%;
+    margin:0px;
+    display:flex;
+    flex-direction: row;
+    list-style-type : none;
+    justify-content: space-evenly;
+    align-items: center;
+}

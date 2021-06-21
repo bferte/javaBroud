@@ -16,18 +16,17 @@
 
 </head>
 <header>
-    <nav>
-        <div>
+    <nav class='navContainer'>
+        <div class="logoContainer">
             <img src="${pageContext.request.contextPath}/ressources/images/logo.png">
         </div>
-        <div>
-
+        <div class="middleContainer">
         </div>
-        <div>
-            <ul>
-                <li><a>Acceuil</a></li>
-                <li><a>Réalisations</a></li>
-                <li><a>Nous contactez</a></li>
+        <div class="linkContainer">
+            <ul class="linkList">
+                <li><a href="#">Acceuil</a></li>
+                <li><a href="#">Réalisations</a></li>
+                <li><a href="#">Nous contactez</a></li>
             </ul>
         </div>
     </nav>
