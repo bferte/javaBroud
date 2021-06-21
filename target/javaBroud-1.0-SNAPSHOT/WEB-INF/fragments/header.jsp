@@ -17,6 +17,18 @@
 </head>
 <header>
     <nav>
-        <img src="${pageContext.request.contextPath}/ressources/images/logo.png">
+        <div>
+            <img src="${pageContext.request.contextPath}/ressources/images/logo.png">
+        </div>
+        <div>
+
+        </div>
+        <div>
+            <ul>
+                <li><a>Acceuil</a></li>
+                <li><a>Réalisations</a></li>
+                <li><a>Nous contactez</a></li>
+            </ul>
+        </div>
     </nav>
 </header>
