@@ -15,7 +15,7 @@
 
 
 <jsp:include page="/WEB-INF/fragments/footer.jsp">
-
+    <jsp:param name="title" value="Homepage" />
 </jsp:include>
 </body>
 </html>
