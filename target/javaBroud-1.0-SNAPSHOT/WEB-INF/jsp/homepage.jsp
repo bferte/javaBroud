@@ -13,7 +13,7 @@
 </jsp:include>
 <body>
 <main>
-    <h1>Nous créeons votre solution digital</h1>
+    <h1>Nous créons votre solution digital</h1>
     <video class="showreal" autoplay>
 
         <source src="${pageContext.request.contextPath}/ressources/video/showreel_.mp4"
