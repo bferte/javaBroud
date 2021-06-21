@@ -27,7 +27,8 @@
                 <ul>
                     <li>contact@broud.fr</li>
                     <li>06 06 06 06 59</li>
-                    <li>1 rue des artiste 44000 Nantes</li>
+                    <li>1 rue des artiste</li>
+                    <li>44000 Nantes</li>
                 </ul>
             </div>
             <div class="footer-sub">
