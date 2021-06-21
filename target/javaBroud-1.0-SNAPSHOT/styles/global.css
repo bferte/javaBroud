@@ -4,10 +4,7 @@
 body {
     --fontTitle : "Playfair Display",serif;
     --fontMain : 'Montserrat', sans-serif;
-
     --color1 : "#383838";
-
-
 }
 
 
@@ -25,15 +22,9 @@ a {
 * {
     box-sizing: border-box;
 }
-
-p{
-    color:white;
-}
-
 img {
     max-width:100%;
 }
-
 :root {
     --tile-padding: 30px;
 }

@@ -10,7 +10,7 @@
     <div class="footer-container">
         <div class="presentation">
             <img src=""/>
-            <p>Agence de éveloppement Web à Nantes</p>
+            <p>Agence de développement Web à Nantes</p>
         </div>
     </div>
 </footer>

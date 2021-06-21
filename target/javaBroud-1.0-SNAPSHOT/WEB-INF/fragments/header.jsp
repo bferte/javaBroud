@@ -17,12 +17,6 @@
 </head>
 <header>
     <nav>
-        <div class="topNav"></div>
+        <p>Agence de développement web à nantes</p>
     </nav>
-    <div class="bottomNav">
-        <div>
-            <p class='bottomNavTitle'>${param.title}</p>
-        </div>
-        <div><LinkButton></LinkButton></div>
-    </div>
 </header>
