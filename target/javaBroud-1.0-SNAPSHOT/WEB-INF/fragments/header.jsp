@@ -17,6 +17,6 @@
 </head>
 <header>
     <nav>
-        <p>Agence de développement web à nantes</p>
+        <img src="${pageContext.request.contextPath}/ressources/images/logo.png">
     </nav>
 </header>
