@@ -13,5 +13,9 @@
 </jsp:include>
 <body>
 
+
+<jsp:include page="/WEB-INF/fragments/footer.jsp">
+
+</jsp:include>
 </body>
 </html>
