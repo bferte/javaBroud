@@ -7,9 +7,9 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-<head>
-    <title>Title</title>
-</head>
+<jsp:include page="/WEB-INF/fragments/header.jsp">
+    <jsp:param name="title" value="Homepage" />
+</jsp:include>
 <body>
 
 </body>
