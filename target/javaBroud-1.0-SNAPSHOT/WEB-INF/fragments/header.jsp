@@ -21,7 +21,7 @@
     </nav>
     <div class="bottomNav">
         <div>
-            <p class='bottomNavTitle'>MacBook Pro 13 "</p>
+            <p class='bottomNavTitle'>${param.title}</p>
         </div>
         <div><LinkButton></LinkButton></div>
     </div>

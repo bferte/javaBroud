@@ -17,12 +17,6 @@
 </head>
 <header>
     <nav>
-        <div class="topNav"></div>
+
     </nav>
-    <div class="bottomNav">
-        <div>
-            <p class='bottomNavTitle'>MacBook Pro 13 "</p>
-        </div>
-        <div><LinkButton></LinkButton></div>
-    </div>
 </header>

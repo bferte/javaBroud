@@ -15,11 +15,11 @@ nav {
     left:0px;
     background-color:rgba(29,29,31,0.72);
     backdrop-filter: saturate(180%) blur(20px);
-    display:flex;
+    /*display:flex;
     align-items: center;
+    justify-content : space-between;*/
     margin:0px;
     padding:0 16px;
-    justify-content : space-between;
     z-index : 10;
 }
 .bottomNavTitle  {
