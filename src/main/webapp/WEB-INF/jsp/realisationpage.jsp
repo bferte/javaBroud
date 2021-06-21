@@ -22,7 +22,7 @@ git<%--
         </div>
         <div class="container-projects">
             <div class="project">
-                <img src="">
+                <img src="${pageContext.request.contextPath}/ressources/images/02.jpg">
                 <div class="resumeProject">
                     <h3>Bidou App</h3>
                     <p>

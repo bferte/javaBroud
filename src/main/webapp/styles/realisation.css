@@ -11,6 +11,7 @@ main {
 .intro {
     margin-top: 100px;
     margin-left: 50px;
+    margin-bottom: 100px;
 }
 .intro p {
     margin-left: 50px;
@@ -20,4 +21,16 @@ main {
     background-color: var(--color1);
     color: white;
 
+}
+.project {
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    padding: 25px 0;
+}
+.project img {
+    height: 230px;
+}
+.project .resumeProject {
+    margin: 60px;
 }
