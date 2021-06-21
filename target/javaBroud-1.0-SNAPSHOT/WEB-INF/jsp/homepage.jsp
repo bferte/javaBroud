@@ -12,7 +12,16 @@
     <jsp:param name="css" value="home" />
 </jsp:include>
 <body>
+<main>
+    <h1>Nous créeons votre solution digital</h1>
+    <video class="showreal" autoplay>
 
+        <source src="${pageContext.request.contextPath}/ressources/video/showreel_.mp4"
+                type="video/mp4">
+
+        Sorry, your browser doesn't support embedded videos.
+    </video>
+</main>
 
 <jsp:include page="/WEB-INF/fragments/footer.jsp">
     <jsp:param name="title" value="Homepage" />
