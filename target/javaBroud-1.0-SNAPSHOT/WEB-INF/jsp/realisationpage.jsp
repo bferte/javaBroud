@@ -20,6 +20,17 @@
             <h2>Nous créons des solutions numériques sur mesures et green</h2>
             <p>Notre expertise en développement web et design digital nous permet d’intervenir sur de nombreuses typologies de projets digitaux, de la création de site internet (vitrine, événementiel, e-commerce) à la plateformes web complexes, en passant par l’expériences tactiles.</p>
         </div>
+        <div class="container-projects">
+            <div class="project">
+                <img src="">
+                <div class="resumeProject">
+                    <h3>Bidou App</h3>
+                    <p>
+                        Application de calcul de l'IMC
+                    </p>
+                </div>
+            </div>
+        </div>
 
     </div>
 
