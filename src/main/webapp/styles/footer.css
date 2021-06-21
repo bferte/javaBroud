@@ -14,6 +14,7 @@ footer p{
     display: flex;
     flex-direction: row;
     justify-content: center;
+    width: 100%;
 
 }
 
@@ -28,9 +29,19 @@ footer p{
 .footer-subMenu ul {
     padding: 0;
 }
+.footer-subMenu li {
+    margin: 10px 0;
+
+}
+
 .footer-subMenu span {
     font-weight: 800;
 }
 .footer-sub {
     margin: 10px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
 }
