@@ -1,9 +1,36 @@
-p {
 
-    color: red;
-    background-color: aqua;
+
+footer img{
+    width: 200px ;
 
 }
+footer p{
+
+    font-family: var(--fontTitle);
+    font-size: 20px;
+
+}
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+
 .presentation {
-    background-color: aquamarine;
+    width: 15%;
+}
+.footer-subMenu{
+    display: flex;
+    flex-direction: row;
+}
+.footer-subMenu ul {
+    padding: 0;
+}
+.footer-subMenu span {
+    font-weight: 800;
+}
+.footer-sub {
+    margin: 10px;
 }
