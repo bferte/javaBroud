@@ -29,6 +29,16 @@ img {
     --tile-padding: 30px;
 }
 
+p {
+
+    color: red;
+    background-color: aqua;
+
+}
+.presentation {
+    background-color: aquamarine;
+}
+
 
 
 
