@@ -21,27 +21,45 @@
 
         Sorry, your browser doesn't support embedded videos.
     </video>
-    <div>
+    <section>
         <h2>Nos Réalisations</h2>
         <p>Chez Broud notre équipe de passionnés vous apporte notre réal expertise en développement web</p>
         <div class="imageContainer">
-            <div class="projetContainer">
+            <article class="projetContainer">
                 <img class="realisationImage" src="${pageContext.request.contextPath}/ressources/images/02.jpg">
                 <h3>Epy Wordpress Theme</h3>
                 <p>Wordpress</p>
-            </div>
-            <div class="projetContainer">
+            </article>
+            <article class="projetContainer">
                 <img class="realisationImage" src="${pageContext.request.contextPath}/ressources/images/04.jpg">
                 <h3>Prokit - Biggest Flutter App UI Kit</h3>
                 <p>Android-and-ios</p>
-            </div>
-            <div class="projetContainer">
+            </article>
+            <article class="projetContainer">
                 <img class="realisationImage" src="${pageContext.request.contextPath}/ressources/images/05.jpg">
                 <h3>Streamit-Video Streaming Wordpress Theme</h3>
                 <p>Wordpress</p>
-            </div>
+            </article>
         </div>
-    </div>
+    </section>
+    <section class="expertise">
+        <h2>Notre expertise</h2>
+        <p>Nous créons votre solution digital pour le web et le mobile afin d'ajouter une plus value unique à votre offre.</p>
+        <div class="expertiseContainer">
+            <article>
+                <h3>Design</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent venenatis id risus at pharetra. Vestibulum ultrices, nibh id posuere imperdiet, ipsum dui laoreet eros, eu ornare libero risus a nibh. Suspendisse sit amet diam est. Aliquam mollis lorem urna, et pulvinar diam venenatis vel. Vivamus nec mauris laoreet ipsum interdum facilisis vestibulum sit amet tellus. In fringilla porta tellus, vel tincidunt tortor maximus sit amet. Proin bibendum eros eget ante dictum hendrerit. Quisque molestie ligula fermentum, hendrerit neque nec, bibendum dolor. Phasellus volutpat viverra venenatis. </p>
+            </article>
+            <article>
+                <h3>Code</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent venenatis id risus at pharetra. Vestibulum ultrices, nibh id posuere imperdiet, ipsum dui laoreet eros, eu ornare libero risus a nibh. Suspendisse sit amet diam est. Aliquam mollis lorem urna, et pulvinar diam venenatis vel. Vivamus nec mauris laoreet ipsum interdum facilisis vestibulum sit amet tellus. In fringilla porta tellus, vel tincidunt tortor maximus sit amet. Proin bibendum eros eget ante dictum hendrerit. Quisque molestie ligula fermentum, hendrerit neque nec, bibendum dolor. Phasellus volutpat viverra venenatis. </p>
+            </article>
+            <article>
+                <h3>SEO</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent venenatis id risus at pharetra. Vestibulum ultrices, nibh id posuere imperdiet, ipsum dui laoreet eros, eu ornare libero risus a nibh. Suspendisse sit amet diam est. Aliquam mollis lorem urna, et pulvinar diam venenatis vel. Vivamus nec mauris laoreet ipsum interdum facilisis vestibulum sit amet tellus. In fringilla porta tellus, vel tincidunt tortor maximus sit amet. Proin bibendum eros eget ante dictum hendrerit. Quisque molestie ligula fermentum, hendrerit neque nec, bibendum dolor. Phasellus volutpat viverra venenatis. </p>
+            </article>
+        </div>
+    </section>
 </main>
 
 <jsp:include page="/WEB-INF/fragments/footer.jsp">
