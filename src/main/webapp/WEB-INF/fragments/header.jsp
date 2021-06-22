@@ -24,7 +24,7 @@
         </div>
         <div class="linkContainer">
             <ul class="linkList">
-                <li><a href="${pageContext.request.contextPath}/homepage">Acceuil</a></li>
+                <li><a href="${pageContext.request.contextPath}/homepage">Accueil</a></li>
                 <li><a href="${pageContext.request.contextPath}/realisation">Réalisations</a></li>
                 <li><a href="${pageContext.request.contextPath}/contact">Nous contactez</a></li>
             </ul>

@@ -49,17 +49,17 @@
             <article>
                 <img src="${pageContext.request.contextPath}/ressources/images/design.png">
                 <h3>Design</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent venenatis id risus at pharetra. Vestibulum ultrices, nibh id posuere imperdiet, ipsum dui laoreet eros, eu ornare libero risus a nibh. Suspendisse sit amet diam est. Aliquam mollis lorem urna, et pulvinar diam venenatis vel. Vivamus nec mauris laoreet ipsum interdum facilisis vestibulum sit amet tellus. In fringilla porta tellus, vel tincidunt tortor maximus sit amet. Proin bibendum eros eget ante dictum hendrerit. Quisque molestie ligula fermentum, hendrerit neque nec, bibendum dolor. Phasellus volutpat viverra venenatis. </p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent venenatis id risus at pharetra. Vestibulum ultrices, nibh id posuere imperdiet, ipsum dui laoreet eros, eu ornare libero risus a nibh. Suspendisse sit amet diam est.</p>
             </article>
             <article>
                 <img src="${pageContext.request.contextPath}/ressources/images/code.png">
                 <h3>Code</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent venenatis id risus at pharetra. Vestibulum ultrices, nibh id posuere imperdiet, ipsum dui laoreet eros, eu ornare libero risus a nibh. Suspendisse sit amet diam est. Aliquam mollis lorem urna, et pulvinar diam venenatis vel. Vivamus nec mauris laoreet ipsum interdum facilisis vestibulum sit amet tellus. In fringilla porta tellus, vel tincidunt tortor maximus sit amet. Proin bibendum eros eget ante dictum hendrerit. Quisque molestie ligula fermentum, hendrerit neque nec, bibendum dolor. Phasellus volutpat viverra venenatis. </p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent venenatis id risus at pharetra. Vestibulum ultrices, nibh id posuere imperdiet, ipsum dui laoreet eros, eu ornare libero risus a nibh. Suspendisse sit amet diam est.</p>
             </article>
             <article>
                 <img src="${pageContext.request.contextPath}/ressources/images/seo.png"
                 <h3>SEO</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent venenatis id risus at pharetra. Vestibulum ultrices, nibh id posuere imperdiet, ipsum dui laoreet eros, eu ornare libero risus a nibh. Suspendisse sit amet diam est. Aliquam mollis lorem urna, et pulvinar diam venenatis vel. Vivamus nec mauris laoreet ipsum interdum facilisis vestibulum sit amet tellus. In fringilla porta tellus, vel tincidunt tortor maximus sit amet. Proin bibendum eros eget ante dictum hendrerit. Quisque molestie ligula fermentum, hendrerit neque nec, bibendum dolor. Phasellus volutpat viverra venenatis. </p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent venenatis id risus at pharetra. Vestibulum ultrices, nibh id posuere imperdiet, ipsum dui laoreet eros, eu ornare libero risus a nibh. Suspendisse sit amet diam est.</p>
             </article>
         </div>
     </section>
