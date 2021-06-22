@@ -24,9 +24,9 @@
             <div class="project">
                 <img src="${pageContext.request.contextPath}/ressources/images/02.jpg">
                 <div class="resumeProject">
-                    <h3>Bidou App</h3>
+                    <h3>Toutou do list</h3>
                     <p>
-                        Application de calcul de l'IMC
+                        Une application de to do list pour votre chien
                     </p>
                 </div>
 
@@ -34,9 +34,9 @@
             <div class="project">
                 <img src="${pageContext.request.contextPath}/ressources/images/02.jpg">
                 <div class="resumeProject">
-                    <h3>Bidou App</h3>
+                    <h3>Jokariii</h3>
                     <p>
-                        Application de calcul de l'IMC
+                        Jeux de jokari
                     </p>
                 </div>
             </div>
@@ -52,9 +52,9 @@
             <div class="project">
                 <img src="${pageContext.request.contextPath}/ressources/images/02.jpg">
                 <div class="resumeProject">
-                    <h3>Bidou App</h3>
+                    <h3>Wazaaap</h3>
                     <p>
-                        Application de calcul de l'IMC
+                        App de messagerie
                     </p>
                 </div>
             </div>

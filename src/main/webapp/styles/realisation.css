@@ -18,16 +18,14 @@ main {
     width: 50%;
 }
 .container-projects {
-    background-color: var(--color1);
-    color: white;
+
     margin: auto;
 
 }
 .project {
     display: flex;
     flex-direction: row;
-    margin-left: 200px;
-    margin-right: 200px;
+
     padding: 25px 0;
 }
 .project img {
