@@ -52,9 +52,9 @@
             <div class="project">
                 <img src="${pageContext.request.contextPath}/ressources/images/02.jpg">
                 <div class="resumeProject">
-                    <h3>Bidou App</h3>
+                    <h3>Wazaaap</h3>
                     <p>
-                        Application de calcul de l'IMC
+                        App de messagerie
                     </p>
                 </div>
             </div>

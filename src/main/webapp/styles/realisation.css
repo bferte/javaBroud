@@ -25,8 +25,7 @@ main {
 .project {
     display: flex;
     flex-direction: row;
-    margin-left: 200px;
-    margin-right: 200px;
+
     padding: 25px 0;
 }
 .project img {
