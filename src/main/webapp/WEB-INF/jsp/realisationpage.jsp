@@ -1,4 +1,4 @@
-git<%--
+<%--
   Created by IntelliJ IDEA.
   User: typia
   Date: 21/06/2021
@@ -21,6 +21,34 @@ git<%--
             <p>Notre expertise en développement web et design digital nous permet d’intervenir sur de nombreuses typologies de projets digitaux, de la création de site internet (vitrine, événementiel, e-commerce) à la plateformes web complexes, en passant par l’expériences tactiles.</p>
         </div>
         <div class="container-projects">
+            <div class="project">
+                <img src="${pageContext.request.contextPath}/ressources/images/02.jpg">
+                <div class="resumeProject">
+                    <h3>Bidou App</h3>
+                    <p>
+                        Application de calcul de l'IMC
+                    </p>
+                </div>
+
+            </div>
+            <div class="project">
+                <img src="${pageContext.request.contextPath}/ressources/images/02.jpg">
+                <div class="resumeProject">
+                    <h3>Bidou App</h3>
+                    <p>
+                        Application de calcul de l'IMC
+                    </p>
+                </div>
+            </div>
+            <div class="project">
+                <img src="${pageContext.request.contextPath}/ressources/images/02.jpg">
+                <div class="resumeProject">
+                    <h3>Bidou App</h3>
+                    <p>
+                        Application de calcul de l'IMC
+                    </p>
+                </div>
+            </div>
             <div class="project">
                 <img src="${pageContext.request.contextPath}/ressources/images/02.jpg">
                 <div class="resumeProject">

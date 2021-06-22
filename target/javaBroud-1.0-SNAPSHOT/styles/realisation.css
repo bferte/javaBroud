@@ -20,12 +20,14 @@ main {
 .container-projects {
     background-color: var(--color1);
     color: white;
+    margin: auto;
 
 }
 .project {
     display: flex;
     flex-direction: row;
-    margin-left: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
     padding: 25px 0;
 }
 .project img {
@@ -33,4 +35,8 @@ main {
 }
 .project .resumeProject {
     margin: 60px;
+
+}
+.container-projects .project:nth-child(even) {
+    flex-direction: row-reverse;
 }
