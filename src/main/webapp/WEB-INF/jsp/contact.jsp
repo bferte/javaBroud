@@ -24,11 +24,12 @@
         <label for="prenom">Prénom : </label>
         <input type="text" name="prenom" id="prenom" />
       </div>
+      <div class="emailContainer">
+        <label for="email">email : </label>
+        <input type="text" name="email" id="email" />
+      </div>
     </div>
-    <div class="emailContainer">
-      <label for="email">email : </label>
-      <input type="text" name="email" id="email" />
-    </div>
+
     <textarea id="message" name="message"
               rows="5" cols="33">
 
