@@ -29,9 +29,10 @@ public class ContactServlet extends HttpServlet {
         PrintWriter writer = response.getWriter();
 
         String htmlRespone = "<html>";
+        htmlRespone += "<h2>Nous avons bien recu votre demande de contact<br/>";
         htmlRespone += "<h2>Votre email est: " + email + "<br/>";
-        htmlRespone += "Votre nom est: " + nom + "</h2>";
-        htmlRespone += "<h2>Votre prenom est: " + prenom + "<br/>";
+        htmlRespone += "Votre nom est: " + nom + "<br/>";
+        htmlRespone += "Votre prenom est: " + prenom + "<br/>";
         htmlRespone += "Votre message est: " + message + "</h2>";
         htmlRespone += "</html>";
 

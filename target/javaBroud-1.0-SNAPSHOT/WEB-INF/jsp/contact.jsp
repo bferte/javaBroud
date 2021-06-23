@@ -13,7 +13,7 @@
 </jsp:include>
 <body>
 
-  <form method="post" action="bonjour">
+  <form method="post" action="contact">
 
     <div class="nomPrenom">
       <div class="nom-container">
