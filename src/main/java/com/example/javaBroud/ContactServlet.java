@@ -4,6 +4,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
 import java.io.IOException;
+import java.io.PrintWriter;
 
 @WebServlet(name = "ContactServlet", value = "/contact")
 public class ContactServlet extends HttpServlet {
@@ -15,6 +16,26 @@ public class ContactServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        String email = request.getParameter("email");
+        String nom = request.getParameter("nom");
+        String prenom = request.getParameter("prenom");
+        String message = request.getParameter("message");
 
+        System.out.println("email: " + email);
+        System.out.println("nom: " + nom);
+        System.out.println("prenom: " + prenom);
+        System.out.println("message: " + message);
+
+        PrintWriter writer = response.getWriter();
+
+        String htmlRespone = "<html>";
+        htmlRespone += "<h2>Votre email est: " + email + "<br/>";
+        htmlRespone += "Votre nom est: " + nom + "</h2>";
+        htmlRespone += "<h2>Votre prenom est: " + prenom + "<br/>";
+        htmlRespone += "Votre message est: " + message + "</h2>";
+        htmlRespone += "</html>";
+
+
+        writer.println(htmlRespone);
     }
 }
