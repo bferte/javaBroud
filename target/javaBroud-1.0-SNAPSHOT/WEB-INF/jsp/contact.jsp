@@ -13,6 +13,34 @@
 </jsp:include>
 <body>
 
+  <form method="post" action="bonjour">
+
+    <div class="nomPrenom">
+      <div class="nom-container">
+        <label for="nom">Nom : </label>
+        <input type="text" name="nom" id="nom" />
+      </div>
+      <div class="prenom-container">
+        <label for="prenom">Prénom : </label>
+        <input type="text" name="prenom" id="prenom" />
+      </div>
+    </div>
+    <div class="emailContainer">
+      <label for="email">email : </label>
+      <input type="text" name="email" id="email" />
+    </div>
+    <textarea id="message" name="message"
+              rows="5" cols="33">
+    
+    </textarea>
+
+
+
+    <input type="submit" />
+  </form>
+
+
+
 
 <jsp:include page="/WEB-INF/fragments/footer.jsp">
   <jsp:param name="title" value="Homepage" />
